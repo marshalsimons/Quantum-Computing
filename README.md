@@ -7,9 +7,9 @@ Variation Quantum Eigensolver to find the minimum eigenvalue of a Hamiltonian.
 
 <img width="382" height="128" alt="image" src="https://github.com/user-attachments/assets/31f4f568-3875-4e61-b982-159c68d19e65" />
 
-Quantum adder running on Aer Simulator locally.
+Quantum adder running on Aer Simulator locally with diagram of circuit.
 
-<img width="828" height="394" alt="image" src="https://github.com/user-attachments/assets/76a8473f-eee5-4010-9ab5-107ebd1b0b98" />
+<img width="936" height="442" alt="image" src="https://github.com/user-attachments/assets/325147da-6b0e-4cbf-b972-e8f88b6acdf6" />
 
 Quamtum Adder running on IBM Quantum Platform backend.
 
