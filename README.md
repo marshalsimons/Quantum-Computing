@@ -11,6 +11,6 @@ Quantum adder running on Aer Simulator locally with diagram of circuit.
 
 <img width="936" height="442" alt="image" src="https://github.com/user-attachments/assets/325147da-6b0e-4cbf-b972-e8f88b6acdf6" />
 
-Quamtum Adder running on IBM Quantum Platform backend.
+Quantum Adder running on IBM Quantum Platform backend.
 
 <img width="462" height="52" alt="image" src="https://github.com/user-attachments/assets/1a601ac4-ac89-4610-a84d-6b9d49384f36" />
