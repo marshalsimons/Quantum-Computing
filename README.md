@@ -1,5 +1,5 @@
 # Quantum-Computing
-Series of Quantum Algorithms in IBM Qiskit as part of a final project for Quantum Computing at Dakota State University.
+Series of Quantum Algorithms in IBM Qiskit as part of a final project for Quantum Computing at Dakota State University. These algorithms serve as a continuation and implementation of prior work where we created proofs of each algorithm.
 
 ## Variation Quantum Eigensolver
 The VQE finds the minimum eigenvalue of a Hamiltonian, otherwise known as the ground state of a physical system. This algorithm is used in quantum chemistry, simulations and optimization problems. Given an ansatz (fancy word for guess), the process calculates the expectation value of the observable and then optimizes the value using a classical system to improve the guess.   
