@@ -4,9 +4,7 @@ Series of Quantum Algorithms in IBM Qiskit as part of a final project for Quantu
 ## Variation Quantum Eigensolver
 The VQE finds the minimum eigenvalue of a Hamiltonian, otherwise known as the ground state of a physical system. This algorithm is used in quantum chemistry, simulations and optimization problems. Given an ansatz (fancy word for guess), the process calculates the expectation value of the observable and then optimizes the value using a classical system to improve the guess.   
 
-
-<img width="382" height="128" alt="image" src="https://github.com/user-attachments/assets31f4f568-3875-4e61-b982-159c68d19e65" />
-
+<img width="382" height="128" alt="image" src="https://github.com/user-attachments/assets/31f4f568-3875-4e61-b982-159c68d19e65" />
 
 ## Quantum Adder
 The Quantum adder is a basic arithmetic algorithm for adding quantum bits. Similar to its classical counterpart, the algorithm requires enough bits to account for each variable, as well as the carry bit, sum and for the quantum algorithm, a classical register to hold the result. Notably, this algorithm can only perform single qbit addition. Longer operations will require additional qbits and sequences of the algorithm for each additional bit.
@@ -17,5 +15,3 @@ The Quantum adder is a basic arithmetic algorithm for adding quantum bits. Simil
 ### Quantum Adder running on IBM Quantum Platform backend.
 
 <img width="462" height="52" alt="image" src="https://github.com/user-attachments/assets/1a601ac4-ac89-4610-a84d-6b9d49384f36" />
-
-<img width="382" height="128" alt="image" src="https://github.com/user-attachments/assets31f4f568-3875-4e61-b982-159c68d19e65" />
