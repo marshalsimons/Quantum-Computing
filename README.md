@@ -10,6 +10,7 @@ The VQE finds the minimum eigenvalue of a Hamiltonian, otherwise known as the gr
 The Quantum adder is a basic arithmetic algorithm for adding quantum bits. Similar to its classical counterpart, the algorithm requires enough bits to account for each variable, as well as the carry bit, sum and for the quantum algorithm, a classical register to hold the result. Notably, this algorithm can only perform single qbit addition. Longer operations will require additional qbits and sequences of the algorithm for each additional bit.
 
 ### Quantum Adder running on Aer Simulator locally with diagram of circuit.
+Below is the circuit representation of of the quantum adder and the result of running it on the Aer quantum simulater.
 <img width="936" height="442" alt="image" src="https://github.com/user-attachments/assets/325147da-6b0e-4cbf-b972-e8f88b6acdf6" />
 
 ### Quantum Adder running on IBM Quantum Platform backend.
