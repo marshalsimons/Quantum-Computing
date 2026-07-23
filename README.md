@@ -11,6 +11,7 @@ The Quantum adder is a basic arithmetic algorithm for adding quantum bits. Simil
 
 ### Quantum Adder running on Aer Simulator locally with diagram of circuit.
 Below is the circuit representation of of the quantum adder and the result of running it on the Aer quantum simulater.
+
 <img width="936" height="442" alt="image" src="https://github.com/user-attachments/assets/325147da-6b0e-4cbf-b972-e8f88b6acdf6" />
 
 ### Quantum Adder running on IBM Quantum Platform backend.
