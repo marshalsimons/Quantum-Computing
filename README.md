@@ -13,5 +13,6 @@ The Quantum adder is a basic arithmetic algorithm for adding quantum bits. Simil
 <img width="936" height="442" alt="image" src="https://github.com/user-attachments/assets/325147da-6b0e-4cbf-b972-e8f88b6acdf6" />
 
 ### Quantum Adder running on IBM Quantum Platform backend.
+Below is the same Quantum Adder algorithm but is sent to the IBM Quantum backend to run on one of their quantum machines. 
 
 <img width="462" height="52" alt="image" src="https://github.com/user-attachments/assets/1a601ac4-ac89-4610-a84d-6b9d49384f36" />
